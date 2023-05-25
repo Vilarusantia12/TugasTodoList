@@ -1,0 +1,49 @@
+#todolist {
+    font-family: 'Poppins';
+    font-weight: bolder;
+    margin-top: 60px;
+}
+#menu1{
+    margin-left: 100px;
+    padding-right: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    background-color: greenyellow;
+    font-family: sans-serif;
+}
+#menu2{
+    margin-left: 100px;
+    padding-right: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px ;
+    background-color: greenyellow;
+    font-family: sans-serif;
+}
+#menu3{
+    margin-left: 100px;
+    padding-right: 10px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px ;
+    background-color: greenyellow;
+    font-family: sans-serif;
+}
+#input{
+    width: 25%;
+    margin-left: 100px;
+    border-color: grey;
+    font-family: sans-serif;
+}
+#add{
+    padding-left: 20px ;
+    padding-right: 20px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    font-weight: bolder;
+    font-size: small;
+    background-color: blue;
+    font-family: sans-serif;
+}
